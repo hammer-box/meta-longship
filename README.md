@@ -1,0 +1,4 @@
+meta-longship
+=============
+
+Yocto recipies
